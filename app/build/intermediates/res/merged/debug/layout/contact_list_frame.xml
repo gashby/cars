@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:baselineAligned="false">
+
+    <!--  Student List Fragment (Left Side) -->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="fill"
+        android:layout_weight="2"
+        android:gravity="center_vertical|start"
+        android:orientation="vertical" >
+
+        <fragment
+            android:id="@+id/student_list_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            class="org.tuares.cars.ui.StudentListFragment" />
+
+    </LinearLayout>
+
+    <!--  Detail Fragment Layout (Right Side) -->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_gravity="fill">
+
+        <FrameLayout
+            android:id="@+id/student_detail_frame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            class="org.tuares.cars.ui.StudentDetailFragment"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

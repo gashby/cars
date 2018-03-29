@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\xml\\data_sync_adapter.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\xml\\data_sync_adapter.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\xml\\servers.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\servers.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_restrictions.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\app_restrictions.xml"
+    }
+]

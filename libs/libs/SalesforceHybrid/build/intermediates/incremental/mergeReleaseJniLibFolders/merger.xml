@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Dev\Android\projects\cars\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceHybrid\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="C:\Dev\Android\projects\cars\mobile_sdk\salesforcemobilesdk-android\libs\SalesforceHybrid\src\release\jniLibs"/></dataSet></merger>

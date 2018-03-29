@@ -1,0 +1,7 @@
+#Tue Feb 13 09:17:15 CET 2018
+base.0=C\:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_507285bb2767989b6c2a0e7fcd2a6bb9b392e3b1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_605887bb222af6147e151be2ab55d843d3efc68c\\classes.dex
+base.1=C\:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_605887bb222af6147e151be2ab55d843d3efc68c
+file.0=C\:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_507285bb2767989b6c2a0e7fcd2a6bb9b392e3b1\\classes.dex

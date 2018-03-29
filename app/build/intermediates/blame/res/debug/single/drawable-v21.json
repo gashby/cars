@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\456acb31e09749fe4ef45378b8c413e57483c982\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\08960d1a74479a76208911fa56b8cc21174991f1\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\456acb31e09749fe4ef45378b8c413e57483c982\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\456acb31e09749fe4ef45378b8c413e57483c982\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\456acb31e09749fe4ef45378b8c413e57483c982\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

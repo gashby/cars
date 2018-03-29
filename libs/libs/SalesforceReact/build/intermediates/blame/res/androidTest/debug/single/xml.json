@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceReact\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\authenticator.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceReact\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\servers.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\servers.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceReact\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\app_restrictions.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\app_restrictions.xml"
+    }
+]

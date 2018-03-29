@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SmartSync\\build\\intermediates\\res\\merged\\release\\xml\\servers.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\servers.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SmartSync\\build\\intermediates\\res\\merged\\release\\xml\\authenticator.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SmartSync\\build\\intermediates\\res\\merged\\release\\xml\\app_restrictions.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\app_restrictions.xml"
+    }
+]

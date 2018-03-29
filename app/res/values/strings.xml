@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">org.tuares.cars.login</string>
+    <string name="app_name"><b>cars</b></string>
+    <string name="app_package">org.tuares.cars</string>
+    <string name="welcome">Welcome %s</string>
+    <string name="logout_button">Logout</string>
+    <string name="fetch_contacts_button">Fetch Contacts</string>
+    <string name="fetch_accounts_button">Fetch Accounts</string>
+    <string name="clear_button">Clear</string>
+    <string name="yes">Yes</string>
+    <string name="logout_cancel">cancel</string>
+    <string name="logout_title">Logout</string>
+    <string name="main_activity_title">SDK Sample Contact</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="title">title</string>
+    <string name="phone">phone</string>
+    <string name="email">email</string>
+    <string name="department">department</string>
+    <string name="home_phone">home phone</string>
+    <string name="delete">delete</string>
+    <string name="action_search">search</string>
+    <string name="action_add">add</string>
+    <string name="action_refresh">refresh</string>
+    <string name="switch_user_button">switch user</string>
+    <string name="inspect_db_button">inspect db</string>
+    <string name="delete_title">delete</string>
+    <string name="drawer_item_attendance">Attendance</string>
+    <string name="drawer_item_class">Class</string>
+    <string name="drawer_item_student">Student</string>
+    <string name="drawer_item_switch_account">Switch User</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\08960d1a74479a76208911fa56b8cc21174991f1\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\08960d1a74479a76208911fa56b8cc21174991f1\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\08960d1a74479a76208911fa56b8cc21174991f1\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\08960d1a74479a76208911fa56b8cc21174991f1\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

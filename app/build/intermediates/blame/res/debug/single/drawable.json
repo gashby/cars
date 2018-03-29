@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_school_white_18dp.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\ic_school_white_18dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_top.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\50c718b9258a2ce5efadc32fd4ae9b4df3080cd4\\output\\res\\drawable\\material_drawer_shadow_top.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_person_add_white_18dp.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\ic_person_add_white_18dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_badge.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\50c718b9258a2ce5efadc32fd4ae9b4df3080cd4\\output\\res\\drawable\\material_drawer_badge.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_group_white_18dp.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\ic_group_white_18dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_circle_mask.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\50c718b9258a2ce5efadc32fd4ae9b4df3080cd4\\output\\res\\drawable\\material_drawer_circle_mask.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\4d85060b9d9886d2198a2be8f24f386dae29364c\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_person_white_18dp.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\ic_person_white_18dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sync_local.jpeg",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\sync_local.jpeg"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sentiment_neutral_amber_500_18dp.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\ic_sentiment_neutral_amber_500_18dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_switched_account_white_18dp.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\ic_switched_account_white_18dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\08960d1a74479a76208911fa56b8cc21174991f1\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\4d85060b9d9886d2198a2be8f24f386dae29364c\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\668c8821b3afa70a92c51cdeea00e77dac2f1583\\output\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sf__progress_spinner.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\sf__progress_spinner.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_power_settings_new_white_18dp.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\ic_power_settings_new_white_18dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attendance_neutral_amber_500_18dp.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\ic_attendance_neutral_amber_500_18dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sf__toolbar_background.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\sf__toolbar_background.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\08960d1a74479a76208911fa56b8cc21174991f1\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\08960d1a74479a76208911fa56b8cc21174991f1\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sync_success.jpeg",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\sync_success.jpeg"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attendence_dissatisfied_red_500_18dp.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\ic_attendence_dissatisfied_red_500_18dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_right.9.png",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\50c718b9258a2ce5efadc32fd4ae9b4df3080cd4\\output\\res\\drawable\\material_drawer_shadow_right.9.png"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tuares_header.jpg",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\tuares_header.jpg"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\4d85060b9d9886d2198a2be8f24f386dae29364c\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_bottom.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\50c718b9258a2ce5efadc32fd4ae9b4df3080cd4\\output\\res\\drawable\\material_drawer_shadow_bottom.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_group_add_white_18dp.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\ic_group_add_white_18dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_left.9.png",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\50c718b9258a2ce5efadc32fd4ae9b4df3080cd4\\output\\res\\drawable\\material_drawer_shadow_left.9.png"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\456acb31e09749fe4ef45378b8c413e57483c982\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\profile.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\456acb31e09749fe4ef45378b8c413e57483c982\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attendance_satisfied_green_400_18dp.xml",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\res\\drawable\\ic_attendance_satisfied_green_400_18dp.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sf__header_bg.png",
+        "source": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\libs\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\sf__header_bg.png"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\08960d1a74479a76208911fa56b8cc21174991f1\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\456acb31e09749fe4ef45378b8c413e57483c982\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Private\\dev_projects\\TuaRes\\project\\cars\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\47f3cf6f1196b8c6ffefca4714700df7229ee13e\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    }
+]

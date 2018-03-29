@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sf__inspector_result_cell.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SmartStore\\build\\intermediates\\bundles\\default\\res\\layout\\sf__inspector_result_cell.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sf__custom_server_url.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__custom_server_url.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sf__fingerprint_dialog.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__fingerprint_dialog.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sf__account_switcher.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__account_switcher.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sf__manage_space.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__manage_space.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sf__login.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__login.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sf__server_picker.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__server_picker.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sf__server_picker_list.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__server_picker_list.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sf__inspector.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SmartStore\\build\\intermediates\\bundles\\default\\res\\layout\\sf__inspector.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\sf__passcode.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__passcode.xml"
+    }
+]

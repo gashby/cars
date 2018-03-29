@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\sf__progress_spinner.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\sf__progress_spinner.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\sf__toolbar_background.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\sf__toolbar_background.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\release\\drawable\\sf__header_bg.png",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\sf__header_bg.png"
+    }
+]

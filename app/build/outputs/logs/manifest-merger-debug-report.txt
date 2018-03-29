@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:3:1-69:12
+	package
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:4:2-27
+	android:versionName
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:6:2-27
+		INJECTED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml
+		INJECTED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:5:2-25
+		INJECTED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml
+		INJECTED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:7:2-40
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:9:2-75
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:9:19-72
+application
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:10:2-55:19
+MERGED from [cars.libs:SmartSync:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SmartSync\build\intermediates\bundles\default\AndroidManifest.xml:11:5-20
+MERGED from [cars.libs:SmartStore:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SmartStore\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:22:5-115:19
+MERGED from [cars.libs:SalesforceAnalytics:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:14:5-20
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\gashby\.android\build-cache\1f7c672997427df37e0c17fbcf5abf345be167f7\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\gashby\.android\build-cache\05a9841132179cafbb50ffdd8992a904b57106e7\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\gashby\.android\build-cache\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\gashby\.android\build-cache\54021c145ea7e489ff33b94fe821cd0b75db8460\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\gashby\.android\build-cache\93fbf79463d1a2e077eb72ecfb8e59a97ce23f15\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.mikepenz:google-material-typeface:2.2.0.1] C:\Users\gashby\.android\build-cache\a78c1baa0296be38d2b1803c1b39f0bf2e9c9e1a\output\AndroidManifest.xml:27:5-20
+	android:label
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:11:6-38
+	android:manageSpaceActivity
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:13:3-81
+	android:icon
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:10:15-48
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:12:3-34
+activity#org.tuares.cars.ui.MainActivity
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:16:3-23:14
+	android:label
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:17:4-36
+	android:theme
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:18:4-35
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:16:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:19:4-22:20
+action#android.intent.action.MAIN
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:20:5-57
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:20:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:21:15-62
+activity#org.tuares.cars.ui.DetailActivity
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:26:3-31:14
+	android:theme
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:27:4-35
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:26:13-61
+intent-filter#android.intent.category.DEFAULT
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:28:4-30:20
+category#android.intent.category.DEFAULT
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:29:5-64
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:29:15-61
+service#org.tuares.cars.sync.DataSyncService
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:35:3-43:13
+	android:process
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:37:4-27
+	android:exported
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:36:4-27
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:35:12-63
+intent-filter#android.content.SyncAdapter
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:38:4-40:20
+action#android.content.SyncAdapter
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:39:5-57
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:39:13-55
+meta-data#android.content.SyncAdapter
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:41:4-42:49
+	android:resource
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:42:5-46
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:41:15-57
+provider#org.tuares.cars.sync.DummyContentProvider
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:46:3-51:32
+	android:authorities
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:47:4-62
+	android:enabled
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:50:4-26
+	android:label
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:51:4-29
+	android:syncable
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:49:4-27
+	android:exported
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:48:4-27
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:46:13-69
+uses-sdk
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:57:5-58:41
+MERGED from [cars.libs:SmartSync:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SmartSync\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [cars.libs:SmartStore:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SmartStore\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [cars.libs:SalesforceAnalytics:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\gashby\.android\build-cache\1f7c672997427df37e0c17fbcf5abf345be167f7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\gashby\.android\build-cache\05a9841132179cafbb50ffdd8992a904b57106e7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\gashby\.android\build-cache\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\gashby\.android\build-cache\54021c145ea7e489ff33b94fe821cd0b75db8460\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\gashby\.android\build-cache\93fbf79463d1a2e077eb72ecfb8e59a97ce23f15\output\AndroidManifest.xml:17:5-43
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.2] C:\Users\gashby\.android\build-cache\b61729185909b5e6d056dfed479d138ce78a4f8e\output\AndroidManifest.xml:3:3-40
+MERGED from [com.mikepenz:materialdrawer:5.2.0] C:\Users\gashby\.android\build-cache\50c718b9258a2ce5efadc32fd4ae9b4df3080cd4\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:1.4.1] C:\Users\gashby\.android\build-cache\cfe39f6c59c8d64b33cfab6582e5bf1fa2d34d3a\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.5.11] C:\Users\gashby\.android\build-cache\f5dddc4e51f8deef82845fc41e0adb95b5a46f9a\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:0.8.8] C:\Users\gashby\.android\build-cache\dd88df61ae6796751851572ebda211c3596da1df\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:google-material-typeface:2.2.0.1] C:\Users\gashby\.android\build-cache\a78c1baa0296be38d2b1803c1b39f0bf2e9c9e1a\output\AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:fontawesome-typeface:4.4.0.1] C:\Users\gashby\.android\build-cache\be46737aa8f47cae43add79d28cbdde46cc0f287\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:itemanimators:0.2.4] C:\Users\gashby\.android\build-cache\980a2b62ae0711789f53b88cc633affd64865da0\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.0.2] C:\Users\gashby\.android\build-cache\456acb31e09749fe4ef45378b8c413e57483c982\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\gashby\.android\build-cache\1e9f363d0805d6f9a6ce2c416d52fb9000913fd5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\gashby\.android\build-cache\b12abb4cdae1b520ed00965ecfe9c187dceec8f4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\gashby\.android\build-cache\10368337a23299ea7793b18e7a979651583a96ff\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\gashby\.android\build-cache\42ef2e396550cf1dc9a302640fb89abff7aa2ec8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\gashby\.android\build-cache\98c597db93267e60fc528261dc8de5e06440fedd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\gashby\.android\build-cache\47f3cf6f1196b8c6ffefca4714700df7229ee13e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\gashby\.android\build-cache\c94d2d20aa8589c466e27354f0d46d945ead2b26\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\gashby\.android\build-cache\30d269a3b701ed1e8598fd013839e6afef0d9c38\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\gashby\.android\build-cache\808b86329ccca7a7e71863b99ca292cba3c78cc9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.0.2] C:\Users\gashby\.android\build-cache\2fb113a3e4f375edae1821addda734e84125c33e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\gashby\.android\build-cache\250685cb95682a885477950880416eccb8c640b6\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\gashby\.android\build-cache\c951a75335cbc02b98fa4c472169ab42fcb3ef35\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\gashby\.android\build-cache\63792bf3be45e986c783d4a1c7795b1cebe08287\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\gashby\.android\build-cache\c7287211c6cf97df700ef61045557b6a6ae64058\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\gashby\.android\build-cache\08960d1a74479a76208911fa56b8cc21174991f1\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\gashby\.android\build-cache\2b56e74730c9c69e53d141622cad534c05bccc2f\output\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:58:9-38
+	android:minSdkVersion
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:57:15-41
+permission#org.tuares.cars.C2D_MESSAGE
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:65:5-66:47
+	android:protectionLevel
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:66:9-44
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:65:17-59
+uses-permission#org.tuares.cars.C2D_MESSAGE
+ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:68:5-67
+	android:name
+		ADDED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml:68:22-64
+activity#com.salesforce.androidsdk.smartstore.ui.SmartStoreInspectorActivity
+ADDED from [cars.libs:SmartStore:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SmartStore\build\intermediates\bundles\default\AndroidManifest.xml:14:9-104
+	android:name
+		ADDED from [cars.libs:SmartStore:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SmartStore\build\intermediates\bundles\default\AndroidManifest.xml:14:19-101
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:14:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:16:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:17:5-82
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\gashby\.android\build-cache\1f7c672997427df37e0c17fbcf5abf345be167f7\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\gashby\.android\build-cache\05a9841132179cafbb50ffdd8992a904b57106e7\output\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:17:22-79
+uses-permission-sdk-23
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:20:29-78
+meta-data#android.content.APP_RESTRICTIONS
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:25:9-27:56
+	android:resource
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:26:13-60
+service#com.salesforce.androidsdk.auth.AuthenticatorService
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:30:9-40:19
+	android:exported
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:31:13-79
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:33:13-35:29
+action#android.accounts.AccountAuthenticator
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:34:17-80
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:34:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:37:13-39:57
+	android:resource
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:39:17-54
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:38:17-69
+activity#com.salesforce.androidsdk.ui.LoginActivity
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:43:9-45:67
+	android:theme
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:45:13-64
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:44:13-70
+activity#com.salesforce.androidsdk.ui.PasscodeActivity
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:48:9-50:67
+	android:theme
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:50:13-64
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:49:13-73
+activity#com.salesforce.androidsdk.ui.ManageSpaceActivity
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:53:9-56:67
+	android:excludeFromRecents
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:55:13-46
+	android:theme
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:56:13-64
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:54:13-76
+activity#com.salesforce.androidsdk.ui.ServerPickerActivity
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:59:9-62:67
+	android:excludeFromRecents
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:61:13-46
+	android:theme
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:62:13-64
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:60:13-77
+activity#com.salesforce.androidsdk.ui.AccountSwitcherActivity
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:65:9-68:67
+	android:excludeFromRecents
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:67:13-46
+	android:theme
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:68:13-64
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:66:13-80
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:75:9-84:20
+	android:exported
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:77:13-36
+	android:permission
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:78:13-73
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:76:13-66
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:79:13-83:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:80:17-81
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:80:25-78
+category#${applicationId}
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:82:17-61
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:82:27-58
+		INJECTED from C:\Private\dev_projects\TuaRes\project\cars\app\AndroidManifest.xml
+service#com.salesforce.androidsdk.push.SFDCGcmListenerService
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:86:9-92:19
+	android:exported
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:88:13-37
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:87:13-81
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:89:13-91:29
+service#com.salesforce.androidsdk.push.SFDCInstanceIDListenerService
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:93:9-99:19
+	android:exported
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:95:13-37
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:94:13-88
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:96:13-98:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:97:17-80
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:97:25-77
+service#com.salesforce.androidsdk.push.SFDCRegistrationIntentService
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:100:9-103:19
+	android:exported
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:102:13-37
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:101:13-88
+receiver#com.salesforce.androidsdk.push.PushService$SFDCRegistrationRetryAlarmReceiver
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:105:9-107:40
+	android:exported
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:107:13-37
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:106:13-105
+service#com.salesforce.androidsdk.push.PushService
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:109:9-111:40
+	android:exported
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:111:13-37
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:110:13-70
+service#com.salesforce.androidsdk.analytics.AnalyticsPublisherService
+ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:112:9-114:40
+	android:exported
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:114:13-37
+	android:name
+		ADDED from [cars.libs:SalesforceSDK:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\AndroidManifest.xml:113:13-89
+uses-permission#android.permission.INTERNET
+ADDED from [cars.libs:SalesforceAnalytics:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\gashby\.android\build-cache\1f7c672997427df37e0c17fbcf5abf345be167f7\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\gashby\.android\build-cache\05a9841132179cafbb50ffdd8992a904b57106e7\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [cars.libs:SalesforceAnalytics:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [cars.libs:SalesforceAnalytics:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [cars.libs:SalesforceAnalytics:unspecified] C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceAnalytics\build\intermediates\bundles\default\AndroidManifest.xml:12:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\gashby\.android\build-cache\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\gashby\.android\build-cache\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\gashby\.android\build-cache\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\gashby\.android\build-cache\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\gashby\.android\build-cache\93fbf79463d1a2e077eb72ecfb8e59a97ce23f15\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\gashby\.android\build-cache\93fbf79463d1a2e077eb72ecfb8e59a97ce23f15\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\gashby\.android\build-cache\93fbf79463d1a2e077eb72ecfb8e59a97ce23f15\output\AndroidManifest.xml:20:20-65

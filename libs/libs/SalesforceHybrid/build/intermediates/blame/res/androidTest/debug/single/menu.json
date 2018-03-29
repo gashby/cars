@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\sf__clear_custom_url.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\menu\\sf__clear_custom_url.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\sf__login.xml",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\menu\\sf__login.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_fp_40px.png",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ic_fp_40px.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\sf__icon.png",
+        "source": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\sf__icon.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    }
+]

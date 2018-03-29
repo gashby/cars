@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\projects\\cars\\mobile_sdk\\salesforcemobilesdk-android\\libs\\SalesforceHybrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\gashby\\.android\\build-cache\\f3c93fc09edaaa07f138f6c3d3314d20fd79fa1e\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]

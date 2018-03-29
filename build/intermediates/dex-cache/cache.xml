@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\6698770a9ba622dab26dc2f6b595aed65adffa06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_166ccd747ebd248ef4e9f19eb4feaff5f8822bec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\f5dddc4e51f8deef82845fc41e0adb95b5a46f9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98a135c7935e62ac041acc1fcb148973bde828d5">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_b4a86e91057ce4287469ebd7636eac0550069b24.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\808b86329ccca7a7e71863b99ca292cba3c78cc9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74cd44620c8e722ff6b9b8c20783fcbddc3c3c4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\fe8a3f1b46752727de9fca731d1940faf270aee7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_179b2ff689a0906be598773fae1801247898881b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_605887bb222af6147e151be2ab55d843d3efc68c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\42a77f7427c0061528018ee46d181d0c19da1875\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_b3ef8b3499c0a41316071e2227ea48480d59a047.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\1f7c672997427df37e0c17fbcf5abf345be167f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59abe60e7d47f331f847d5d2660b643d3ef83bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\a78c1baa0296be38d2b1803c1b39f0bf2e9c9e1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="861dd8b4d38117b27f7e95c9fd555f69fe668138">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a9fbb3405c754b372fc2a97538bafb94c1053cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\c94d2d20aa8589c466e27354f0d46d945ead2b26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3927b8381f70ff48e6c349e899c93ec24977eae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\50c718b9258a2ce5efadc32fd4ae9b4df3080cd4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4e321f93dc9379e01485b0811f46c23c3572596d">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_421099b8f22dc32420691e2bf456b3ec630469cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\be46737aa8f47cae43add79d28cbdde46cc0f287\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e8ad61c604470ee6933c21ae0aefcf9ee03c3911">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16ee42fa7d04a768c770ca6cb8d80cf68cad7865\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_a8e1fb6870f35dcc49d0b8081250f17753d3e17e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\91eeca8a32ad876e3a45b7ff60d19a86dc3c9b18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed7af9f3127720f31d4151919892ee299a49c8da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\42ef2e396550cf1dc9a302640fb89abff7aa2ec8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="56475cca92ba863761d67d6f46742387432d1cda">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc2a8d38836c713b0a0778a48cab78f650660ab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\com.squareup\tape\1.2.3\a56c013cdf3af49efec795ebecfc866612f815eb\tape-1.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a56c013cdf3af49efec795ebecfc866612f815eb">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\tape-1.2.3_daede3022f90c658d07fbf50741aa37b794b6ed8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.3_707b73cccc0c93881e82a4e4e3e7d0bbacd6ba9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\05a9841132179cafbb50ffdd8992a904b57106e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df13923c6e03fff4fa0114b758de3548a9caefd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\47f3cf6f1196b8c6ffefca4714700df7229ee13e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_858d167eae8abec1156b0f8d27b9edbf5c58f3ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3996c6a6ac7ad57e2e62afd0d30ddca47bd79a61">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_507285bb2767989b6c2a0e7fcd2a6bb9b392e3b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-27.0.2_e0706197ceec250cd0620ee3d6c063311a42d940\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\1f7c672997427df37e0c17fbcf5abf345be167f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_59abe60e7d47f331f847d5d2660b643d3ef83bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_0510b0df7ae4538370df9534b6951470a61c5b24.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_605887bb222af6147e151be2ab55d843d3efc68c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\d1886f95085f5e378106368ba2ccf7ec938699e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b160cbd03e3f480a58c61907d424e79e97e696a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\250685cb95682a885477950880416eccb8c640b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10f48953bfa08feed913aee6543894eccc9cf480\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_378cd3561f09eec11d93a07bf6e2fa67b213cbe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\b61729185909b5e6d056dfed479d138ce78a4f8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e7ecee496793b4020ffe5052331a7efb075f5a73">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1cc260670a71342dbb93b0e03693efab4830f24a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\98c597db93267e60fc528261dc8de5e06440fedd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fb3829c9e5373776bd8e008fe943466c958f51d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\okio-1.11.0_869a3c3944bc161e754ba9bc466261ab94d9ae32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\com.squareup\tape\1.2.3\a56c013cdf3af49efec795ebecfc866612f815eb\tape-1.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a56c013cdf3af49efec795ebecfc866612f815eb">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\tape-1.2.3_daede3022f90c658d07fbf50741aa37b794b6ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\05a9841132179cafbb50ffdd8992a904b57106e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_df13923c6e03fff4fa0114b758de3548a9caefd2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\93fbf79463d1a2e077eb72ecfb8e59a97ce23f15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eeb377ea99d86521ac2f0f945c923d75f016d6e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_869a3c3944bc161e754ba9bc466261ab94d9ae32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.8.1_0510b0df7ae4538370df9534b6951470a61c5b24\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_87d68704356b448475d468bb6c8e57cf0e6d7676.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\f5dddc4e51f8deef82845fc41e0adb95b5a46f9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="98a135c7935e62ac041acc1fcb148973bde828d5">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4a86e91057ce4287469ebd7636eac0550069b24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\dd88df61ae6796751851572ebda211c3596da1df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="197c431b8fc427f77e02997e299bd6b9bef58ede">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c92fed80b91603a52f81093732f84cbd55dcf93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\b12abb4cdae1b520ed00965ecfe9c187dceec8f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b4f8af273b08c9b510be013535ca2005b3137f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_378cd3561f09eec11d93a07bf6e2fa67b213cbe7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\30d269a3b701ed1e8598fd013839e6afef0d9c38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_959c7125e797c446826fab2281675b83074fc3b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\b61729185909b5e6d056dfed479d138ce78a4f8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7ecee496793b4020ffe5052331a7efb075f5a73">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_1cc260670a71342dbb93b0e03693efab4830f24a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\980a2b62ae0711789f53b88cc633affd64865da0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="855c5b5e3008983771197f24b4750b0e0adbde55">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5237f352e94a99450035bc810c647bda57ba4cec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\4d85060b9d9886d2198a2be8f24f386dae29364c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_d3b04eab709f227cedc32563406a5b787370b535.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\ac5788fb5f71cd02f5f18a044525e430dc0d2035\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4b92266d99f19f8073b4a583d6e1f34b42f8873\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\1e9f363d0805d6f9a6ce2c416d52fb9000913fd5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13e6e78c8d288548152679487c38f2947c9864be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\3e9416e0196117b6a4fe67e62d1fb9de35b097f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef00bc4256c5ab3c4e7548082628e33f78f7a716\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\54021c145ea7e489ff33b94fe821cd0b75db8460\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_ae2e2820c28e70b075276fb793c7b865f7178057.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\456acb31e09749fe4ef45378b8c413e57483c982\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4609cac5ef82189a4d9226c6cbcc54b1e0e738c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\dd88df61ae6796751851572ebda211c3596da1df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="197c431b8fc427f77e02997e299bd6b9bef58ede">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_9c92fed80b91603a52f81093732f84cbd55dcf93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\a111f91f308cfcafa0cd2538c7c67bca7cbfd283\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_44c2faebd7fcf7e98660535ba910d3cf97b70cfc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\c497c1ba2331a762c9ff4869d96b8fbabf135906\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_354636b2b61d51fb988c5fe95b830cf9168fb7dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_fa0d69416da46a1c8cdb51ed9f0906f68c7cd3ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\250685cb95682a885477950880416eccb8c640b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_10f48953bfa08feed913aee6543894eccc9cf480.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\ffa5fa8e3e45f1dd77366b72d5f73a6483e804cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87d68704356b448475d468bb6c8e57cf0e6d7676\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\980a2b62ae0711789f53b88cc633affd64865da0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="855c5b5e3008983771197f24b4750b0e0adbde55">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_5237f352e94a99450035bc810c647bda57ba4cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\93fbf79463d1a2e077eb72ecfb8e59a97ce23f15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_eeb377ea99d86521ac2f0f945c923d75f016d6e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\jacocoagent_1619d112d6ee13a62cfb952788d300ab1ebd31b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\a78c1baa0296be38d2b1803c1b39f0bf2e9c9e1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="861dd8b4d38117b27f7e95c9fd555f69fe668138">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_0a9fbb3405c754b372fc2a97538bafb94c1053cc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\54021c145ea7e489ff33b94fe821cd0b75db8460\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae2e2820c28e70b075276fb793c7b865f7178057\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\cfe39f6c59c8d64b33cfab6582e5bf1fa2d34d3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4c5bfb989e99b9308bcbe7ad2dfd56fa81e63440">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_906b09698a57a090de1a10d51c80b6a23bba09c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SmartSync\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70168cf7ab2e5fd1ab12acc8c0d91697db1e2d29">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_5f2427d66ed3967449a692718075ef8dafdd94a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\c2f59eeca6d3893071bcecc93c607de465dd95d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_858b4c6091459bc108252409211824133cbc6149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Private\Dev\androidStudio\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_f11e7fc1428b4ec704ef4ae31601e47bdc6511ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\cfe39f6c59c8d64b33cfab6582e5bf1fa2d34d3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c5bfb989e99b9308bcbe7ad2dfd56fa81e63440">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_906b09698a57a090de1a10d51c80b6a23bba09c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\be46737aa8f47cae43add79d28cbdde46cc0f287\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8ad61c604470ee6933c21ae0aefcf9ee03c3911">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_16ee42fa7d04a768c770ca6cb8d80cf68cad7865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\fe8a3f1b46752727de9fca731d1940faf270aee7\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_e1502879ef6f76604788d2c17419e16ac8dcbc0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceSDK\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8753e78e20a72b777ea38f5d3f0027f8860b1e9">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_f5a1ec169326bac62be7c8e7ea468e52ce4c5a4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SalesforceAnalytics\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e033b0215f1aa4a9a2a87e66b79ab53a870ac1b8">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_6082c0d50eaf2e345312fc151af798ac6299032a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gashby\.android\build-cache\10368337a23299ea7793b18e7a979651583a96ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20ec0a1d9ba8df657a8d428c0cf3f309a6938370\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\63ccd3285be8dbc78a66e7d42e667789e1772385\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_8159e4e2e4113d642cc79757395c52cfcdbc6906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_fa0d69416da46a1c8cdb51ed9f0906f68c7cd3ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8b06bef9cd28e16e2accbc021226cdd1d463ae2d">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_507285bb2767989b6c2a0e7fcd2a6bb9b392e3b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Private\dev_projects\TuaRes\project\cars\libs\libs\SmartStore\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fb5628e29e3dee90ff2b06e370e53fcd3675d38">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_463f89b95c286240f2ccc6191c521eea51d543ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gashby\.android\build-cache\50c718b9258a2ce5efadc32fd4ae9b4df3080cd4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e321f93dc9379e01485b0811f46c23c3572596d">
+        <dex dex="C:\Private\dev_projects\TuaRes\project\cars\app\build\intermediates\pre-dexed\debug\classes_421099b8f22dc32420691e2bf456b3ec630469cf.jar" />
+    </item>
+
+</items>

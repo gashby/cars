@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="remoteAccessConsumerKey">3MVG9aFryxgomHTaOFmbbJYe8aTocqlTWMWJs4HktAt8T4xd0Bl3fqjqFN8rUQUTQnsw2WRsUnpjbKRy5AD8E</string>
+    <string name="oauthRedirectURI">sfdc://attendance/callback</string>
+    <string-array name="oauthScopes">
+        <item>api</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources>
